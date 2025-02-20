@@ -11,7 +11,7 @@ public class Calcul {
 
         
         if(b==0) return 0;
-        //test diff
+        
         return a * b;
     }
     public static int division(int a, int b) {
