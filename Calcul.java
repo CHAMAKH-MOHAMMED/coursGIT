@@ -16,7 +16,6 @@ public class Calcul {
     }
     public static int division(int a, int b) {
        
-//ajouter in bran
         return a / b;
     }
 
